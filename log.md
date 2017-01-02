@@ -7,5 +7,5 @@
 **Thoughts:** Starting this year with a simple project based on one of my favorites cartoons. 😎
 
 **Link(s) to work**
-1. [Quiz app](http://marcorojas.me/quizzApp/)
-2. [Source Code](https://github.com/MrcRjs/quizzApp)
+1. [Quiz app](http://marcorojas.me/quizApp/)
+2. [Source Code](https://github.com/MrcRjs/quizApp)
