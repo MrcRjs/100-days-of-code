@@ -9,3 +9,12 @@
 **Link(s) to work**
 1. [Quiz app](http://marcorojas.me/quizApp/)
 2. [Source Code](https://github.com/MrcRjs/quizApp)
+
+### Day 2: January 2, Monday
+
+**Today's Progress**: Build a seed with Webpack, React and Material UI for future projects.
+
+**Thoughts:** This is going to save me some time when starting other React projects
+
+**Link(s) to work**
+1. [Repo](https://github.com/MrcRjs/react-material-seed)
