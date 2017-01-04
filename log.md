@@ -18,3 +18,12 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/MrcRjs/react-material-seed)
+
+### Day 3: January 3, Tuesday
+
+**Today's Progress**: Started Free Code Camp Wikipedia Viewer project.
+
+**Thoughts:** Wikipedia API are a little bit confusing. I must define a correct URL to fetch the data required for the view and add styles/animations 🙌🏼
+
+**Link(s) to work**
+1. [Codepen](http://codepen.io/MrcRjs/pen/JEPPWo/)
