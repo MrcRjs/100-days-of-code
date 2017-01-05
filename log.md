@@ -27,3 +27,12 @@
 
 **Link(s) to work**
 1. [Codepen](http://codepen.io/MrcRjs/pen/JEPPWo/)
+
+### Day 4: January 4, Wednesday
+
+**Today's Progress**: Progressed with Free Code Camp Wikipedia Viewer project.
+
+**Thoughts:** It ir working according to Free Code Camp user histories, I want to make it look better using animate.css :D
+
+**Link(s) to work**
+1. [Codepen](http://codepen.io/MrcRjs/pen/JEPPWo/)
